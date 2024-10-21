@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="logo.svg" align="center" alt="Logo" />
  <h2 align="center">CBEEDF</h2>
- <p align="center">China Building Energy Efficiency Design Fundamental Platform</p>
+ <p align="center">China Building Energy Efficiency Design Fundamental (CBEEDF) Database and Platform</p>
 </p>
 <p align="center">
   <a href="https://buildingdata.xauat.edu.cn/"><img alt="buildingdata" src="https://img.shields.io/badge/CBEEDF Platform-063c7c?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVQ4jZ3UPU8UURjF8d8ubwmhopGAQKSDymhjQWm30hEbwkthgV9AQkUJFq5+AyVsIYXfwspADRWSYAMfgIIQH4qdjZv1zp1lT3Izd86c88/cZJ6pRYQ+9BY1HFcmI6JqvYl/WqnKV8Ga8b+agwCfRcRpAtbRaUQs9AvcyIB6tVkF/PYIWEeHKeCLiLgYANbR74JBRGxXhP9ExExEzEbEVUX2fR0rma/qEk/xCg3M4jyTbwzjOhNYwBpaxf0cFlE2DTf1DOxzUWx1ebuYLq4p1XLAA6wm/H18Len8zQFv8DrhL2u/+X3i2V0OCGMJ7x4j2j+LXmWPPIFfCf8E4xhKlXLALRwm/D08LyvlgJ9wi6Mev4GdQYCj+IgNnHX5X/CyrFPHkwz0A9axhO+ZXEdTw/ihfFrGMVns32mP3XwG+PMBYdAQPwkBdngAAAAASUVORK5CYII=&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 ### What is CBEEDF Platform?
 
-China Building Energy Efficiency Design Fundamental (CBEEDF) Platform provides indoor and outdoor parameter sets for building thermal engineering, HVAC design and building energy consumption simulation covering more than 1,019 cities and towns in China. It realises full coverage, dynamic updating and real-time sharing of the design calculation parameters in the current building thermal engineering, HVAC and building energy-saving design standards and design manuals. It provides a full range of energy-saving design data services for scientific research, education, engineering and technical personnel in the construction industry, and provides data support for the preparation of national and industrial standards in the field of building energy efficiency and the engineering and construction requirements of major national strategies such as building energy efficiency and emission reduction.
+China Building Energy Efficiency Design Fundamental (CBEEDF) Database and Platform provides indoor and outdoor parameter sets for building thermal engineering, HVAC design and building energy consumption simulation covering more than 1,019 cities and towns in China. It realises full coverage, dynamic updating and real-time sharing of the design calculation parameters in the current building thermal engineering, HVAC and building energy-saving design standards and design manuals. It provides a full range of energy-saving design data services for scientific research, education, engineering and technical personnel in the construction industry, and provides data support for the preparation of national and industrial standards in the field of building energy efficiency and the engineering and construction requirements of major national strategies such as building energy efficiency and emission reduction.
 
 ### Repository
 
