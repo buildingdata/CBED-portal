@@ -37,7 +37,7 @@ Clone this repository and sql import the data tables to mysql:
 git clone https://github.com/buildingdata/CBEEDF-web.git
 ```
 
-#### 2.Download Dependencies
+#### 2.Download dependencies
 
 Navigate to the `/web/backend` project directory and run it:
 
@@ -47,7 +47,7 @@ mvn clean install
 
 This will download all required dependencies and compile the project.
 
-#### 3.Run Project
+#### 3.Run project
 
 Run the application using the following command:
 
@@ -65,7 +65,7 @@ Once the server is up, open your browser and go to:
 http://localhost:8080
 ```
 
-### Open Data
+### Open data
 
 This code repository is shared for [scientific data](https://www.nature.com/sdata/).
 
