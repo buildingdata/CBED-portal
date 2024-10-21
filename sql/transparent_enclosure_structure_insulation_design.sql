@@ -1,0 +1,11 @@
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '严寒A区', '≤2.0', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '严寒B区', '≤2.2', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '严寒C区', '≤2.5', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '夏热冬冷A区', '≤3.5', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '夏热冬冷B区', '≤4.0', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '夏热冬暖A区', '-', '不验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '夏热冬暖B区', '-', '不验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '寒冷A区', '≤3.0', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '寒冷B区', '≤3.0', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '温和A区', '≤3.5', '验算', '无');
+INSERT INTO `transparent_enclosure_structure_insulation_design` (`station_id`, `climate_zones`, `k_value`, `resistance_to_condensation`, `basic_thermal_comfort`) VALUES (57131, '温和B区', '-', '不验算', '无');

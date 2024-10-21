@@ -1,0 +1,1 @@
+INSERT INTO `enclosure_structure_envelope_design` (`station_id`, `structure_name`, `param1`, `param2`, `param3`, `param4`, `param5`, `param6`) VALUES (57131, '内表面最高温度', 36.0, 36.0, 36.0, 36.0, 36.0, 36.0);

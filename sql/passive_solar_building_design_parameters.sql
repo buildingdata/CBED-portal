@@ -1,0 +1,2 @@
+INSERT INTO `passive_solar_building_design_parameters` (`station_id`, `type`, `winter_heating_calculation_temperature`, `summer_cooling_calculation_temperature`, `summer_hot_and_humid_areas`) VALUES (57131, '只采取主动措施', '18', '26', '26');
+INSERT INTO `passive_solar_building_design_parameters` (`station_id`, `type`, `winter_heating_calculation_temperature`, `summer_cooling_calculation_temperature`, `summer_hot_and_humid_areas`) VALUES (57131, '只采取被动措施', '16', '28', '28');

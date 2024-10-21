@@ -1,0 +1,9 @@
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (1, '办公建筑', 'Ⅰ', 21.0, 25.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (2, '办公建筑', 'Ⅱ', 20.0, 26.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (3, '办公建筑', 'Ⅲ', 19.0, 27.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (4, '商城', 'Ⅰ', 17.0, 24.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (5, '商城', 'Ⅱ', 16.0, 25.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (6, '商城', 'Ⅲ', 15.0, 26.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (7, '居住建筑', 'Ⅰ', 21.0, 25.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (8, '居住建筑', 'Ⅱ', 20.0, 26.0);
+INSERT INTO `t_diffrent_build_temper` (`id`, `type`, `level`, `limitLowHeatTemp`, `limitUpHeatTemp`) VALUES (9, '居住建筑', 'Ⅲ', 18.0, 27.0);
