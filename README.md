@@ -8,7 +8,7 @@
   <a href="https://github.com/buildingdata"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://github.com/buildingdata/CBEEDFD-web/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/buildingdata/CBEEDFD-web.svg?style=flat" /></a>
   <a href="https://github.com/buildingdata/CBEEDFD-web/releases"><img src="https://img.shields.io/github/v/release/buildingdata/CBEEDFD-web?label=version&style=flat" /></a>
-  <a href="https://doi.org/10.5281/zenodo.13959820"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13959820.svg" /></a>
+  <a href="https://doi.org/10.5281/zenodo.13968808"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13968808.svg" /></a>
 </p>
 
 ### What is the CBEEDFD platform?
