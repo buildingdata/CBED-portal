@@ -1,19 +1,19 @@
 <p align="center">
  <img width="100px" src="logo.svg" align="center" alt="Logo" />
- <h2 align="center">CBEEDF Database and Platform</h2>
- <p align="center">China Building Energy Efficiency Design Fundamental (CBEEDF) Database and Platform</p>
+ <h2 align="center">CBEEDFD Database and Platform</h2>
+ <p align="center">China Building Energy Efficiency Design Fundamental (CBEEDFD) Database and Platform</p>
 </p>
 <p align="center">
-  <a href="https://buildingdata.xauat.edu.cn/"><img alt="buildingdata" src="https://img.shields.io/badge/CBEEDF Platform-063c7c?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVQ4jZ3UPU8UURjF8d8ubwmhopGAQKSDymhjQWm30hEbwkthgV9AQkUJFq5+AyVsIYXfwspADRWSYAMfgIIQH4qdjZv1zp1lT3Izd86c88/cZJ6pRYQ+9BY1HFcmI6JqvYl/WqnKV8Ga8b+agwCfRcRpAtbRaUQs9AvcyIB6tVkF/PYIWEeHKeCLiLgYANbR74JBRGxXhP9ExExEzEbEVUX2fR0rma/qEk/xCg3M4jyTbwzjOhNYwBpaxf0cFlE2DTf1DOxzUWx1ebuYLq4p1XLAA6wm/H18Len8zQFv8DrhL2u/+X3i2V0OCGMJ7x4j2j+LXmWPPIFfCf8E4xhKlXLALRwm/D08LyvlgJ9wi6Mev4GdQYCj+IgNnHX5X/CyrFPHkwz0A9axhO+ZXEdTw/ihfFrGMVns32mP3XwG+PMBYdAQPwkBdngAAAAASUVORK5CYII=&logoColor=white" /></a>
+  <a href="https://buildingdata.xauat.edu.cn/"><img alt="buildingdata" src="https://img.shields.io/badge/CBEEDFD Platform-063c7c?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVQ4jZ3UPU8UURjF8d8ubwmhopGAQKSDymhjQWm30hEbwkthgV9AQkUJFq5+AyVsIYXfwspADRWSYAMfgIIQH4qdjZv1zp1lT3Izd86c88/cZJ6pRYQ+9BY1HFcmI6JqvYl/WqnKV8Ga8b+agwCfRcRpAtbRaUQs9AvcyIB6tVkF/PYIWEeHKeCLiLgYANbR74JBRGxXhP9ExExEzEbEVUX2fR0rma/qEk/xCg3M4jyTbwzjOhNYwBpaxf0cFlE2DTf1DOxzUWx1ebuYLq4p1XLAA6wm/H18Len8zQFv8DrhL2u/+X3i2V0OCGMJ7x4j2j+LXmWPPIFfCf8E4xhKlXLALRwm/D08LyvlgJ9wi6Mev4GdQYCj+IgNnHX5X/CyrFPHkwz0A9axhO+ZXEdTw/ihfFrGMVns32mP3XwG+PMBYdAQPwkBdngAAAAASUVORK5CYII=&logoColor=white" /></a>
   <a href="https://github.com/buildingdata"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/buildingdata/CBEEDF-web/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/buildingdata/CBEEDF-web.svg?style=flat" /></a>
-  <a href="https://github.com/buildingdata/CBEEDF-web/releases"><img src="https://img.shields.io/github/v/release/buildingdata/CBEEDF-web?label=version&style=flat" /></a>
+  <a href="https://github.com/buildingdata/CBEEDFD-web/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/buildingdata/CBEEDFD-web.svg?style=flat" /></a>
+  <a href="https://github.com/buildingdata/CBEEDFD-web/releases"><img src="https://img.shields.io/github/v/release/buildingdata/CBEEDFD-web?label=version&style=flat" /></a>
   <a href="https://doi.org/10.5281/zenodo.13959820"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13959820.svg" /></a>
 </p>
 
-### What is the CBEEDF platform?
+### What is the CBEEDFD platform?
 
-China Building Energy Efficiency Design Fundamental (CBEEDF) Database and Platform provides indoor and outdoor parameter sets for building thermal engineering, HVAC design and building energy consumption simulation covering more than 1,019 cities and towns in China. It realises full coverage, dynamic updating and real-time sharing of the design calculation parameters in the current building thermal engineering, HVAC and building energy-saving design standards and design manuals. It provides a full range of energy-saving design data services for scientific research, education, engineering and technical personnel in the construction industry, and provides data support for the preparation of national and industrial standards in the field of building energy efficiency and the engineering and construction requirements of major national strategies such as building energy efficiency and emission reduction.
+China Building Energy Efficiency Design Fundamental (CBEEDFD) Database and Platform provides indoor and outdoor parameter sets for building thermal engineering, HVAC design and building energy consumption simulation covering more than 1,019 cities and towns in China. It realises full coverage, dynamic updating and real-time sharing of the design calculation parameters in the current building thermal engineering, HVAC and building energy-saving design standards and design manuals. It provides a full range of energy-saving design data services for scientific research, education, engineering and technical personnel in the construction industry, and provides data support for the preparation of national and industrial standards in the field of building energy efficiency and the engineering and construction requirements of major national strategies such as building energy efficiency and emission reduction.
 
 ### Repository
 
@@ -34,7 +34,7 @@ The database files are located in the `/sql` directory, and the open source code
 Clone this repository and sql import the data tables to mysql:
 
 ```bash
-git clone https://github.com/buildingdata/CBEEDF-web.git
+git clone https://github.com/buildingdata/CBEEDFD-web.git
 ```
 
 #### 2.Download dependencies
@@ -73,4 +73,4 @@ This code repository is shared for [scientific data](https://www.nature.com/sdat
 
 ### License
 
-The code is available under the [GPL-3.0 license](https://github.com/buildingdata/CBEEDF-web/blob/master/LICENSE)
+The code is available under the [GPL-3.0 license](https://github.com/buildingdata/CBEEDFD-web/blob/master/LICENSE)
