@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="logo.svg" align="center" alt="Logo" />
  <h2 align="center">CBED</h2>
- <p align="center">Database and Platform for Building Energy Efficiency Design in China</p>
+ <p align="center">Database for Building Energy in China</p>
 </p>
 <p align="center">
   <a href="https://buildingdata.xauat.edu.cn/"><img alt="buildingdata" src="https://img.shields.io/badge/CBED Platform-063c7c?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVQ4jZ3UPU8UURjF8d8ubwmhopGAQKSDymhjQWm30hEbwkthgV9AQkUJFq5+AyVsIYXfwspADRWSYAMfgIIQH4qdjZv1zp1lT3Izd86c88/cZJ6pRYQ+9BY1HFcmI6JqvYl/WqnKV8Ga8b+agwCfRcRpAtbRaUQs9AvcyIB6tVkF/PYIWEeHKeCLiLgYANbR74JBRGxXhP9ExExEzEbEVUX2fR0rma/qEk/xCg3M4jyTbwzjOhNYwBpaxf0cFlE2DTf1DOxzUWx1ebuYLq4p1XLAA6wm/H18Len8zQFv8DrhL2u/+X3i2V0OCGMJ7x4j2j+LXmWPPIFfCf8E4xhKlXLALRwm/D08LyvlgJ9wi6Mev4GdQYCj+IgNnHX5X/CyrFPHkwz0A9axhO+ZXEdTw/ihfFrGMVns32mP3XwG+PMBYdAQPwkBdngAAAAASUVORK5CYII=&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 ### What is the CBED?
 
-Database and Platform for Building Energy Efficiency Design in China (CBED) provides indoor and outdoor parameter sets for building thermal engineering, HVAC design and building energy consumption simulation covering more than 1,019 cities and towns in China. It realises full coverage, dynamic updating and real-time sharing of the design calculation parameters in the current building thermal engineering, HVAC and building energy-saving design standards and design manuals. It provides a full range of energy-saving design data services for scientific research, education, engineering and technical personnel in the construction industry, and provides data support for the preparation of national and industrial standards in the field of building energy efficiency and the engineering and construction requirements of major national strategies such as building energy efficiency and emission reduction.
+The database comprises five datasets. The meteorological information dataset includes temperature, humidity, wind, atmospheric pressure, and solar radiation. The building thermal design parameters dataset consists of indoor and outdoor parameters, such as indoor and outdoor design conditions for building thermal design and parameters for natural ventilation in summer. The HVAC design parameter dataset also includes indoor and outdoor parameters, such as design conditions for HVAC and design days in winter and summer. The meteorological year dataset for building energy consumption simulation includes typical meteorological year data. The thermal comfort dataset includes indoor and outdoor environments data. Based on meteorological source data, we have developed a database for building energy efficiency design, covering 1,019 cities and towns in China from 1988 to 2017, with more than 2 billion records. We have launched an application offering intuitive data presentation, user-friendly analysis tools, and highly compatible data formats to support researchers, educators, and engineering professionals in the building industry with data acquisition, analysis, and sharing. The application, as a platform for sharing the data for building energy, is accessible at https://buildingdata.xauat.edu.cn/.
 
 ### Repository
 
@@ -29,7 +29,7 @@ The database files are located in the `/sql` directory, and the open source code
 
 ### Installation
 
-#### 1.Clone
+#### 1. Clone
 
 Clone this repository and sql import the data tables to mysql:
 
@@ -37,7 +37,7 @@ Clone this repository and sql import the data tables to mysql:
 git clone https://github.com/buildingdata/CBED-web.git
 ```
 
-#### 2.Download dependencies
+#### 2. Download dependencies
 
 Navigate to the `/web/backend` project directory and run it:
 
@@ -47,7 +47,7 @@ mvn clean install
 
 This will download all required dependencies and compile the project.
 
-#### 3.Run project
+#### 3. Run project
 
 Run the application using the following command:
 
@@ -57,7 +57,7 @@ mvn spring-boot:run
 
 This will start the embedded server (usually Tomcat).
 
-#### 4.View
+#### 4. View
 
 Once the server is up, open your browser and go to:
 
