@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://buildingdata.xauat.edu.cn/"><img alt="buildingdata" src="https://img.shields.io/badge/CBED Platform-063c7c?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVQ4jZ3UPU8UURjF8d8ubwmhopGAQKSDymhjQWm30hEbwkthgV9AQkUJFq5+AyVsIYXfwspADRWSYAMfgIIQH4qdjZv1zp1lT3Izd86c88/cZJ6pRYQ+9BY1HFcmI6JqvYl/WqnKV8Ga8b+agwCfRcRpAtbRaUQs9AvcyIB6tVkF/PYIWEeHKeCLiLgYANbR74JBRGxXhP9ExExEzEbEVUX2fR0rma/qEk/xCg3M4jyTbwzjOhNYwBpaxf0cFlE2DTf1DOxzUWx1ebuYLq4p1XLAA6wm/H18Len8zQFv8DrhL2u/+X3i2V0OCGMJ7x4j2j+LXmWPPIFfCf8E4xhKlXLALRwm/D08LyvlgJ9wi6Mev4GdQYCj+IgNnHX5X/CyrFPHkwz0A9axhO+ZXEdTw/ihfFrGMVns32mP3XwG+PMBYdAQPwkBdngAAAAASUVORK5CYII=&logoColor=white" /></a>
   <a href="https://github.com/buildingdata"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/buildingdata/CBED-web/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/buildingdata/CBED-web.svg?style=flat" /></a>
-  <a href="https://github.com/buildingdata/CBED-web/releases"><img src="https://img.shields.io/github/v/release/buildingdata/CBED-web?label=version&style=flat" /></a>
+  <a href="https://github.com/buildingdata/CBED-portal/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/buildingdata/CBED-portal.svg?style=flat" /></a>
+  <a href="https://github.com/buildingdata/CBED-portal/releases"><img src="https://img.shields.io/github/v/release/buildingdata/CBED-portal?label=version&style=flat" /></a>
   <a href="https://doi.org/10.5281/zenodo.13968808"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13968808.svg" /></a>
 </p>
 
@@ -34,7 +34,7 @@ The database files are located in the `/sql` directory, and the open source code
 Clone this repository and sql import the data tables to mysql:
 
 ```bash
-git clone https://github.com/buildingdata/CBED-web.git
+git clone https://github.com/buildingdata/CBED-portal.git
 ```
 
 #### 2. Download dependencies
@@ -73,4 +73,4 @@ This code repository is shared for [scientific data](https://www.nature.com/sdat
 
 ### License
 
-The code is available under the [GPL-3.0 license](https://github.com/buildingdata/CBED-web/blob/master/LICENSE)
+The code is available under the [GPL-3.0 license](https://github.com/buildingdata/CBED-portal/blob/master/LICENSE)
