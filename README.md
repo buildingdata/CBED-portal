@@ -8,7 +8,7 @@
   <a href="https://github.com/buildingdata"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://github.com/buildingdata/CBED-portal/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/buildingdata/CBED-portal.svg?style=flat" /></a>
   <a href="https://github.com/buildingdata/CBED-portal/releases"><img src="https://img.shields.io/github/v/release/buildingdata/CBED-portal?label=version&style=flat" /></a>
-  <a href="https://doi.org/10.5281/zenodo.15382631"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15382631.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.15382717"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15382717.svg" alt="DOI"></a>
 </p>
 
 ### Abstract
