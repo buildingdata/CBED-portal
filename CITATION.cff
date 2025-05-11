@@ -10,42 +10,39 @@ authors:
     family-names: Yang
     email: yangliu@xauat.edu.cn
     affiliation: State Key Laboratory of Green Building
-  - given-names: Haoning
-    family-names: Wu
-    email: wuhaoning@xauat.edu.cn
   - given-names: Ying
     family-names: Yu
     email: yuying@xauat.edu.cn
+  - given-names: Haoning
+    family-names: Wu
+    email: wuhaoning@xauat.edu.cn
   - given-names: Fei
     family-names: Qi
     email: qifei@xauat.edu.cn
-  - given-names: Qimeng
-    family-names: Cao
-    email: cqm@xauat.edu.cn
-  - given-names: Shengkai
-    family-names: Zhao
-    email: zhaoshengkai@hpu.edu.cn
-  - given-names: Bingbing
-    family-names: Niu
-    email: niubingbingcn@163.com
-  - given-names: Yi
-    family-names: Yang
-    email: yangy@xauat.edu.cn
   - given-names: Shangyu
     family-names: Wang
     email: wsy@xauat.edu.cn
+  - given-names: Qimeng
+    family-names: Cao
+    email: cqm@xauat.edu.cn
   - given-names: Honglian
     family-names: Li
     email: lihonglian_lhl@163.com
-  - given-names: Yanwen
-    family-names: Wu
-    email: wyw@xauat.edu.cn
-  - given-names: Zhijie
-    family-names: Li
-    email: lizhijie@xauat.edu.cn
-  - given-names: Zongfang
-    family-names: Ma
-    email: mazf@xauat.edu.cn
+  - given-names: Yongchao
+    family-names: Zhai
+    email: zhaiyongchao@xauat.edu.cn
+  - given-names: Siru
+    family-names: Gao
+    email: gaosiru@xauat.edu.cn
+  - given-names: Bing
+    family-names: Song
+    email: songbing@xauat.edu.cn
+  - given-names: Shengkai
+    family-names: Zhao
+    email: zhaoshengkai@hpu.edu.cn
+  - given-names: Yuhao
+    family-names: Qiao
+    email: yuhaoqiao@xauat.edu.cn
 repository-code: 'https://github.com/buildingdata/CBED-portal'
 url: 'https://buildingdata.xauat.edu.cn/'
 abstract: Database and Platform for Building Energy in China
