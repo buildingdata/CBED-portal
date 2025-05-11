@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="logo.svg" align="center" alt="Logo" />
  <h2 align="center">CBED</h2>
- <p align="center">Database for Building Energy in China</p>
+ <h3 align="center">Database for Building Energy in China</h3>
  <p align="center">A FAIR Framework for Transparent, Secure Sharing of Chinese Building Energy-Efficient Design Datasets</p>
 </p>
 <p align="center">
