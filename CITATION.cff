@@ -2,50 +2,65 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: CBED
-message: Database for Building Energy in China
-type: software
+title: Chinese Building Energy-Efficient Design Datasets (CBED)
+message: A FAIR Framework for Transparent, Secure Sharing of Chinese Building Energy-Efficient Design Datasets
+type: datasets
 authors:
   - given-names: Liu
     family-names: Yang
     email: yangliu@xauat.edu.cn
     affiliation: State Key Laboratory of Green Building
+    affiliation: College of Architecture, Xi’an University of Architecture and Technology
   - given-names: Ying
     family-names: Yu
     email: yuying@xauat.edu.cn
+    affiliation: School of Mechanical and Electrical Engineering，Xi’an University of Architecture and Technology
   - given-names: Haoning
     family-names: Wu
     email: wuhaoning@xauat.edu.cn
+    affiliation: School of Information and Control Engineering，Xi’an University of Architecture and Technology
   - given-names: Fei
     family-names: Qi
     email: qifei@xauat.edu.cn
+    affiliation: School of Information and Control Engineering，Xi’an University of Architecture and Technology
   - given-names: Shangyu
     family-names: Wang
     email: wsy@xauat.edu.cn
+    affiliation: College of Architecture, Xi’an University of Architecture and Technology
   - given-names: Qimeng
     family-names: Cao
     email: cqm@xauat.edu.cn
+    affiliation: Institute for Interdisciplinary and Innovate Research, Xi'an University of Architecture and Technology
   - given-names: Honglian
     family-names: Li
     email: lihonglian_lhl@163.com
+    affiliation: School of Information and Control Engineering，Xi’an University of Architecture and Technology
   - given-names: Yongchao
     family-names: Zhai
     email: zhaiyongchao@xauat.edu.cn
+    affiliation: State Key Laboratory of Green Building
+    affiliation: College of Architecture, Xi’an University of Architecture and Technology
   - given-names: Siru
     family-names: Gao
     email: gaosiru@xauat.edu.cn
+    affiliation: State Key Laboratory of Green Building
+    affiliation: College of Architecture, Xi’an University of Architecture and Technology
   - given-names: Bing
     family-names: Song
     email: songbing@xauat.edu.cn
+    affiliation: State Key Laboratory of Green Building
+    affiliation: College of Architecture, Xi’an University of Architecture and Technology
   - given-names: Shengkai
     family-names: Zhao
     email: zhaoshengkai@hpu.edu.cn
+    affiliation: School ofArchitectural and Artistic Design, Henan Polytechnic University
   - given-names: Yuhao
     family-names: Qiao
     email: yuhaoqiao@xauat.edu.cn
+    affiliation: Institute for Interdisciplinary and Innovate Research, Xi'an University of Architecture and Technology
 repository-code: 'https://github.com/buildingdata/CBED-portal'
 url: 'https://buildingdata.xauat.edu.cn/'
-abstract: Database and Platform for Building Energy in China
+abstract: A FAIR Framework for Transparent, Secure Sharing of Chinese Building Energy-Efficient Design Datasets
 keywords:
   - building
   - energy
